@@ -1,5 +1,4 @@
-# color-flipper
 
-#color flipper app
+# color flipper app
 
 This is a color flipper app
